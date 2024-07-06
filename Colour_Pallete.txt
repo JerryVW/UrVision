@@ -1,0 +1,27 @@
+UrVision color scheme
+
+
+Blue - #89F5EB      CMYK - C 42%   M 0%   Y 4%   K 4%      RGB - R 137   G 245   B 235 
+
+Grey - #4B4E53      CMYK - C 3%   M 2%   Y 0%   K 67%      RGB - R 75    G 78    B 83 
+
+Purple - #C3A2F5    CMYK - C 20%   M 33%   Y 0%   K 4%     RGB - R 195   G 162   B 245
+
+Green - #7AF579     CMYK - C 48%   M 0%   Y 49%   K 4%     RGB - R 122   G 245   B 121
+
+Hover-Green - #5ab45a     CMYK - C 35%   M 0%   Y 35%   K 29%     RGB - R 90   G 180   B 90
+
+Orange - #F5763B    CMYK - C 0%   M 50%   Y 73%   K 4%     RGB - R 245   G 118   B 59
+
+Yellow - #F5F06C    CMYK - C 0%   M 2%   Y 54%   K 4%      RGB - R 245   G 240   B 108 
+
+Fonts - Trajan, Sabon, Proxima Nova, Avenir
+
+Email......urvisionws@gmail.com
+Password...[UrVision2022!]
+
+Buisiness computer PIN......0772
+
+Mission Statement
+It's our vision to make your vision(UrVision) of your passion a reality!
+
